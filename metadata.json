@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Daddy's Kitchen",
+  "description": "Premium food ordering application with AI Voice Confirmation Agent powered by Gemini 2.5 Live API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
